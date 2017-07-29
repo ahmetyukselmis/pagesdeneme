@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### İçindekiler
 1. Doğru uydurma
-    1. [Doğru uydurma: Doğrusal fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/edit/master/Linear\ regression.ipynb)
-    1. [Doğru uydurma: Kare fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/edit/master/Linear\ regression\ with\ a\ quadratic\ model\ function.ipynb)
+    1. [Doğru uydurma: Doğrusal fonksiyon modeli](Linear\ regression.ipynb)
+    1. [Doğru uydurma: Kare fonksiyon modeli](Linear\ regression\ with\ a\ quadratic\ model\ function.ipynb)
 1. Eğri kaydırma
 
 ### Markdown
