@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### İçindekiler
 1. Doğru uydurma
-    1. [Doğru uydurma: Doğrusal fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/blob/master/Linear%20regression.h)
+    1. [Doğru uydurma: Doğrusal fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/blob/master/Linear%20regression.html)
     1. [Doğru uydurma: Kare fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/blob/master/Linear%20regression%20with%20a%20quadratic%20model%20function.html)
 1. Eğri kaydırma
 
