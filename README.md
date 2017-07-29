@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/mkozturk/pagesdeneme/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### İçindekiler
+1. Doğru uydurma
+    1. [Doğru uydurma: Doğrusal fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/edit/master/Linear\ regression.ipynb)
+    1. [Doğru uydurma: Kare fonksiyon modeli](https://github.com/mkozturk/pagesdeneme/edit/master/Linear\ regression\ with\ a\ quadratic\ model\ function.ipynb)
+1. Eğri kaydırma
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
